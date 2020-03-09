@@ -1,7 +1,3 @@
-// NAME: FARDON Raïssa
-// Student ID: 260689524
-
-
 import java.io.*;
 import java.util.*;
 
