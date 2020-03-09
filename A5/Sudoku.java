@@ -1,6 +1,3 @@
-//NAME: Raïssa FARDON
-//Student ID: 260689524
-
 import java.util.*;
 import java.io.*;
 
